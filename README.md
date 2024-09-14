@@ -9,3 +9,6 @@ Used:
 
 Live Demo:
 1. Figma Design: https://www.figma.com/proto/4CGRzhBuN2kgyIh5cmli3e/Prototype?node-id=1-36&node-type=canvas&t=mroflS5JDh7HJqLv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+
+Downloadable File:
+https://www.figma.com/design/4CGRzhBuN2kgyIh5cmli3e/Prototype?node-id=0-1&t=1IjPPSR9leWimI9t-1
